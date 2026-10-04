@@ -3,6 +3,7 @@ Proyecto segundo parcial
 Aplicación: Registro de alumnos y Calificaciones
 
 Product Backlog
+
 Épica 1 - Registro de Alumnos
 -US1: Como usuario, quiero registrar un alumno con nombre, grupo y cinco calificaciones, para llevar un control academico.
 -US2: Como usuario, quiero que el sistema valide que todos los campos estén llenos y las calificaciones sean números validos, para evitar errores de captura.
